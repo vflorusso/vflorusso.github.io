@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-site.title: Vito's home
-site.description: A place to share stuff I am interested about
-site.show_downloads: false
-site.github.is_project_page: false
+title: Vito's home
+description: A place to share stuff I am interested about
+show_downloads: false
+github.is_project_page: false
